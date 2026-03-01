@@ -35,9 +35,7 @@
 
 <img src="https://img.shields.io/badge/C-%234285F4.svg?style=flat-square&logo=c&logoColor=white" alt="C" style="margin: 5px; height: 30px;">
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="margin: 5px; height: 30px;">
-<img src="https://img.shields.io/badge/Java-%23CC342D.svg?style=flat-square&logo=java&logoColor=white" alt="Java" style="margin: 5px; height: 30px;">
 <img src="https://img.shields.io/badge/Python-%233462A6.svg?style=flat-square&logo=python&logoColor=white" alt="Python" style="margin: 5px; height: 30px;">
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin: 5px; height: 30px;">
 
 
 </br></br>
@@ -54,7 +52,7 @@
 <img src="https://img.shields.io/badge/UART-%23FF9800.svg?style=flat-square" alt="UART" style="margin: 5px; height: 30px;">
 <img src="https://img.shields.io/badge/SPI-%234CAF50.svg?style=flat-square" alt="SPI" style="margin: 5px; height: 30px;">
 <img src="https://img.shields.io/badge/I2C-%232196F3.svg?style=flat-square" alt="I2C" style="margin: 5px; height: 30px;">
-<img src="https://img.shields.io/badge/JTAG-%23FF4081.svg?style=flat-square" alt="JTAG" style="margin: 5px; height: 30px;">
+<img src="https://img.shields.io/badge/CAN-%23FF9800.svg?style=flat-square" alt="CAN" style="margin: 5px; height: 30px;">
 
 
 </br></br>
@@ -80,30 +78,19 @@
 <img src="https://img.shields.io/badge/Version%20Control-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin: 5px; height: 30px;">
 <img src="https://img.shields.io/badge/Debugging-%2300BCD4.svg?style=flat-square&logo=bug&logoColor=white" alt="Debugging" style="margin: 5px; height: 30px;">
 <img src="https://img.shields.io/badge/Testing-%23256CEB.svg?style=flat-square&logo=test&logoColor=white" alt="Testing" style="margin: 5px; height: 30px;">
-<img src="https://img.shields.io/badge/CI%2FCD-%23005571.svg?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" style="margin: 5px; height: 30px;">
 <img src="https://img.shields.io/badge/Code%20Review-%23E91E63.svg?style=flat-square&logo=code&logoColor=white" alt="Code Review" style="margin: 5px; height: 30px;">
 <img src="https://img.shields.io/badge/Communication-%23FF5722.svg?style=flat-square&logo=slack&logoColor=white" alt="Communication" style="margin: 5px; height: 30px;">
 <img src="https://img.shields.io/badge/Teamwork-%236A1B9A.svg?style=flat-square&logo=teamviewer&logoColor=white" alt="Teamwork" style="margin: 5px; height: 30px;">
 
 </div>
-</br>
-
-<h3 align="center">A passionate Embedded developer</h3>
-<h4 align="center">🔥 My GitHub Contribution 3D Chart</h4>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MHoangKMA/github-profile-3d-contrib/main/profile-green-animate.svg" alt="3D Contribution Chart" />
-</p>
+</br></br>
 
 ________________________________________________________
 
 <p align="center">
-  <strong>Thanks for visiting</strong>
+  <strong>My owner asked me to say thank you</strong>
   <br>
   <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
 </p>
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/MHoangKMA/count.svg">
 
 ![footer](./images/WEBP/footer-git.jpg)
